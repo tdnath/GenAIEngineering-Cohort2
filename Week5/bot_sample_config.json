@@ -1,0 +1,16 @@
+{
+    "prefix": "/",
+    "google_api_key": "",
+    "token": "token_value",
+    "permissions": "8",
+    "application_id": "1399048068086894672",
+    "guild_id": 1000008570953300000,
+    "channel_id": 0000990100008400000,
+    "sync_commands_globally": true,
+    "owners": [
+        000000343038500000
+    ],
+    "cogs": [
+        "ibot"
+    ]
+}
